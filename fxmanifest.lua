@@ -6,9 +6,11 @@ game 'gta5'
 author 'grzyClothTool'
 
 files {
+  'mp_m_freemode_01_sovereign.meta',
   'mp_f_freemode_01_sovereign.meta',
   'pedalternativevariations_sovereign.meta'
 }
 
+data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_m_freemode_01_sovereign.meta'
 data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_f_freemode_01_sovereign.meta'
 data_file 'ALTERNATE_VARIATIONS_FILE' 'pedalternativevariations_sovereign.meta'
